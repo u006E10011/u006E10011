@@ -1,6 +1,6 @@
-# Привет, я n19 👋
+# Hi, I'm n19 👋
 
-🚀 Unity-разработчик
+🚀 Unity-developer
 
 <div style="display: flex; gap: 25px;">
   <div style="flex: 60%;">
@@ -11,11 +11,11 @@
   </div>
 </div>
 
-### Мои проекты
+### My projects
 🔗 [Color-Fill-3D](https://github.com/u006E10011/Color-Fill-3D)\
 🔗 [NekosBot](https://github.com/u006E10011/NekosBot)\
 🔗 [TelegramBot](https://github.com/u006E10011/TelegramBot)
 
-### Контакты
+### Contacts
 📧 Email: Cloverry2319@gmail.com\
 💬 Telegram: @u006E10011
