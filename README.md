@@ -3,7 +3,6 @@
 🚀 Unity-разработчик
 
 <div style="display: flex; align-items: stretch;">
-  <!-- Левая карточка (GitHub Stats) -->
   <div style="flex: 60%; margin-right: 25px; background-color: #1A1B27; border-radius: 10px; overflow: hidden;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=u006E10011&show_icons=true&theme=tokyonight"
@@ -12,7 +11,6 @@
     />
   </div>
 
-  <!-- Правая карточка (Top Langs) -->
   <div style="flex: 40%; background-color: #1A1B27; border-radius: 10px; overflow: hidden;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=u006E10011&theme=tokyonight&layout=donut"
