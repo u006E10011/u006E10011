@@ -2,14 +2,23 @@
 
 🚀 Unity-разработчик
 
-
-
-<div style="display: flex; gap: 25px;">
-  <div style="flex: 60%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=u006E10011&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div style="display: flex; align-items: stretch;">
+  <!-- Левая карточка (GitHub Stats) -->
+  <div style="flex: 60%; margin-right: 25px; background-color: #1A1B27; border-radius: 10px; overflow: hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=u006E10011&show_icons=true&theme=tokyonight"
+      style="width: 100%; height: 100%; object-fit: contain;"
+      alt="GitHub Stats"
+    />
   </div>
-  <div style="flex: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u006E10011&theme=tokyonight&layout=donut" alt="Top Langs" />
+
+  <!-- Правая карточка (Top Langs) -->
+  <div style="flex: 40%; background-color: #1A1B27; border-radius: 10px; overflow: hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=u006E10011&theme=tokyonight&layout=donut"
+      style="width: 100%; height: 100%; object-fit: contain;"
+      alt="Top Langs"
+    />
   </div>
 </div>
 
