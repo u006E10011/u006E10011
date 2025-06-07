@@ -13,3 +13,6 @@
 ### Contacts
 📧 Email: Cloverry2319@gmail.com\
 💬 Telegram: @u006E10011
+
+## Технологии
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,visualstudio)](https://skillicons.dev)
