@@ -20,4 +20,4 @@
 💬 Telegram: @u006E10011
 
 ### Моя активность
-![Snake animation](https://raw.githubusercontent.com/u006E10011/u006E10011/output/github-contribution-grid-snake.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
