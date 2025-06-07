@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
-          github_user_name: u006E10011
+          github_user_name: n19
           svg_file_path: assets/snake.svg
           color: "#ff00ff"
       - uses: actions/upload-artifact@v3
