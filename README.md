@@ -2,14 +2,8 @@
 
 🚀 Unity-developer
 
-<div style="display: flex; gap: 25px;">
-  <div style="flex: 60%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=u006E10011&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </div>
-  <div style="flex: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u006E10011&theme=tokyonight&layout=donut" alt="Top Langs" />
-  </div>
-</div>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=u006E10011&show_icons=true&theme=tokyonight&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u006E10011&theme=tokyonight&layout=donut" /></a> |
+| ------------- | ------------- |
 
 ### My projects
 🔗 [Color-Fill-3D](https://github.com/u006E10011/Color-Fill-3D)\
