@@ -20,4 +20,4 @@
 💬 Telegram: @u006E10011
 
 ### Моя активность
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=u006E10011&theme=tokyonight)](https://github.com/u006E10011)
+![Snake animation](https://raw.githubusercontent.com/u006E10011/u006E10011/output/github-contribution-grid-snake.svg)
