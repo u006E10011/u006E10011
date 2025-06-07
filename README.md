@@ -18,6 +18,3 @@
 ### Контакты
 📧 Email: Cloverry2319@gmail.com\
 💬 Telegram: @u006E10011
-
-### Моя активность
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
