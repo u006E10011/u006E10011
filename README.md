@@ -18,3 +18,6 @@
 ### Контакты
 📧 Email: Cloverry2319@gmail.com\
 💬 Telegram: @u006E10011
+
+### Моя активность
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=u006E10011&theme=tokyonight)](https://github.com/u006E10011)
