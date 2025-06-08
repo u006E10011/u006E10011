@@ -13,6 +13,7 @@
 ### Contacts
 📧 Email: Cloverry2319@gmail.com\
 💬 Telegram: @u006E10011
-<!--
-## Technologies
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,visualstudio)](https://skillicons.dev) -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=u006E10011&custom_title=Github%20Readme%20Activity%20Graph&theme=tokyo-night&hide_border=true&radius=15&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
